@@ -40,3 +40,5 @@ EMAIL_PASSWORD=your_email_password
   ```
 - The script will send an email to each recipient with a certificate attachment.
 - The script logs the progress and any errors to a YAML formatted log file named `email_log.yaml`.
+
+#### **P.S.: Don't forget to change things like the email content and header image as you like.**
